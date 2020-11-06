@@ -1,0 +1,28 @@
+!SESSION 2018-11-20 23:08:26.769 -----------------------------------------------
+eclipse.buildId=4.9.0.I20180906-0745
+java.version=1.8.0_131
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=fr_FR
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.core.net 1 0 2018-11-20 23:09:06.349
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+
+!ENTRY org.eclipse.help.base 2 0 2018-11-20 23:10:42.857
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.jdt.doc.user_3.15.0.v20180905-1254 [225]'. The index should be rebuilt with Lucene 7.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2018-11-20 23:10:42.873
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.dtdeditor.doc.user_1.1.0.v201802171654 [470]'. The index should be rebuilt with Lucene 7.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2018-11-20 23:10:42.874
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.platform.doc.user_4.9.0.v20180905-1254 [379]'. The index should be rebuilt with Lucene 7.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2018-11-20 23:10:42.876
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.xmleditor.doc.user_1.1.0.v201802171654 [483]'. The index should be rebuilt with Lucene 7.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2018-11-20 23:10:42.879
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.xsdeditor.doc.user_1.0.800.v201711201733 [486]'. The index should be rebuilt with Lucene 7.0.0
+
+!ENTRY org.eclipse.help.base 2 0 2018-11-20 23:10:42.881
+!MESSAGE Unable to consume Lucene index from bundle 'org.eclipse.wst.sse.doc.user_1.2.0.v201802171654 [473]'. The index should be rebuilt with Lucene 7.0.0

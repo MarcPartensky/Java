@@ -1,0 +1,28 @@
+package myAwesomeFirstTestOnJava;
+
+import java.util.Scanner;
+
+public class TheMain {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Veuillez saisir un nombre:");
+		int nombre = sc.nextInt();
+		int result = 5;
+				
+		while(nombre != result){
+			if (nombre<result) {
+				System.out.println("trop petit");
+			}
+			if (nombre>result) {
+				System.out.println("trop grand");
+			}
+			
+		}
+			
+
+
+	}	
+}
+
