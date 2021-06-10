@@ -43,7 +43,7 @@ public class Main {
 
 		// List<Integer> nombres = Arrays.asList(1721, 979, 366, 299, 675, 1456);
 		// calculProduit(nombres);
-		//
+
 		countingSheeps(0);
 
 	}
